@@ -1,0 +1,9 @@
+name=Splash
+version=1.0.0
+author=KAthiR
+maintainer=KAthiR <skathir38@gmail.com>
+sentence=Library for managing 16x2 and 20x4 LCD displays.
+paragraph=This library provides convenient functions for managing 16x2 and 20x4 LCD displays, including methods for displaying text and setting the cursor.
+category=Display
+url=https://github.com/yourusername/your-repo
+architectures=*

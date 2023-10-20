@@ -1,0 +1,8 @@
+Splash16x2	KEYWORD1
+Splash20x4	KEYWORD1
+displayCentered	KEYWORD2
+setCursor	KEYWORD2
+noDisplay	KEYWORD2
+display	KEYWORD2
+noCursor	KEYWORD2
+cursor	KEYWORD2
